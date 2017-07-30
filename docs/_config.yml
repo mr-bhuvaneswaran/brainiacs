@@ -11,8 +11,7 @@ title: MKCEZILLA
 #What is the name of the events or talks you would like to host? (Example Brownbags, Talks, Lighting Talks)
 event_label: Events
 
-description: > # this means to ignore newlines until "baseurl:"
-  
+description: > # this means to ignore newlines until "baseurl:" 
 MKCEZILLA is club under MozillaTN community actively contributing to various contribution of mozilla.
 
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -21,9 +20,9 @@ url: https://mozillatn.github.io/mkcezilla
 domain_name: 'http://mozillatn.github.io'
 
 #These settings might be able to go?
-author: MozillaTN
-twitter_username: MozillaTN
-github_username:  MozillaTN
+author: Bhuvaneswaran
+twitter_username: Mr.Bhuvaneswaran
+github_username:  mr-bhuvaneswaran
 
 # Build settings
 markdown: kramdown
