@@ -37,4 +37,4 @@ google_analytics: 'UA-63310670-1'
 disqus: true
 disqus_shortname: 'MozillaTN'
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-leap-day
