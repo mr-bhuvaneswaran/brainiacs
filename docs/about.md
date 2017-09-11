@@ -3,7 +3,7 @@ layout: page
 navigation_title: About
 title: About MKCEZILLA
 permalink: /about/
-cover: 'https://mozillatn.github.io/clubs/assets/mozilla-tn-bannerc.png'
+cover: 'http://www.mkce.ac.in/wp-content/uploads/2016/01/banner1-2.jpg'
 ---
 
 MKCEZILLA of Mozilla Tamilnadu is a volunteer community functioning under Mozilla India.
