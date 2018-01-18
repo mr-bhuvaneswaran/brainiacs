@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84724b0a-a3b0-4dfb-8ca0-69b09623ebb4" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/_config.yml" afterPath="$PROJECT_DIR$/docs/_config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/_site/Events/index.html" afterPath="$PROJECT_DIR$/docs/_site/Events/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/_site/about/index.html" afterPath="$PROJECT_DIR$/docs/_site/about/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/_site/blog/docker.html" afterPath="$PROJECT_DIR$/docs/_site/blog/docker.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/_site/blog/index.html" afterPath="$PROJECT_DIR$/docs/_site/blog/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/_site/contributors/index.html" afterPath="$PROJECT_DIR$/docs/_site/contributors/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/_site/event/angular-2.html" afterPath="$PROJECT_DIR$/docs/_site/event/angular-2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/_site/event/aws.html" afterPath="$PROJECT_DIR$/docs/_site/event/aws.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/_site/event/intro-to-react.html" afterPath="$PROJECT_DIR$/docs/_site/event/intro-to-react.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/_site/feed.xml" afterPath="$PROJECT_DIR$/docs/_site/feed.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/_site/index.html" afterPath="$PROJECT_DIR$/docs/_site/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -73,11 +63,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/_site/blog/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="203">
               <caret line="132" column="6" lean-forward="false" selection-start-line="132" selection-start-column="6" selection-end-line="132" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="docker.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/docs/_site/blog/docker.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="193">
+              <caret line="75" column="117" lean-forward="false" selection-start-line="75" selection-start-column="117" selection-end-line="75" selection-end-column="117" />
               <folding />
             </state>
           </provider>
@@ -88,16 +88,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="blog.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/blog.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="3" column="28" lean-forward="false" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -131,6 +121,7 @@
       <find>Bhuva</find>
       <find>MozillaTN ClubName is club under MozillaTN community actively contributing to various contribution of mozilla.</find>
       <find>MozillaTN community</find>
+      <find>background-image:url(../assets/mozilla-tn-bannerc.png);</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -149,6 +140,7 @@
         <option value="$PROJECT_DIR$/docs/_data/present_contributors.yml" />
         <option value="$PROJECT_DIR$/docs/_site/index.html" />
         <option value="$PROJECT_DIR$/docs/_site/blog/index.html" />
+        <option value="$PROJECT_DIR$/docs/_site/blog/docker.html" />
       </list>
     </option>
   </component>
@@ -191,6 +183,13 @@
               <item name="brainiacs" type="462c0819:PsiDirectoryNode" />
               <item name="docs" type="462c0819:PsiDirectoryNode" />
               <item name="_site" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="brainiacs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="brainiacs" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+              <item name="_site" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -336,14 +335,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/_site/blog/docker.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4533">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/docs/_layouts/page.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -467,6 +458,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="203">
           <caret line="132" column="6" lean-forward="false" selection-start-line="132" selection-start-column="6" selection-end-line="132" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/_site/blog/docker.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="75" column="117" lean-forward="false" selection-start-line="75" selection-start-column="117" selection-end-line="75" selection-end-column="117" />
           <folding />
         </state>
       </provider>
