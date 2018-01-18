@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84724b0a-a3b0-4dfb-8ca0-69b09623ebb4" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/_site/blog/docker.html" afterPath="$PROJECT_DIR$/docs/_site/blog/docker.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/_site/index.html" afterPath="$PROJECT_DIR$/docs/_site/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -53,11 +53,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/docs/_site/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="327">
-              <caret line="141" column="4" lean-forward="true" selection-start-line="141" selection-start-column="4" selection-end-line="141" selection-end-column="4" />
+            <state relative-caret-position="342">
+              <caret line="58" column="117" lean-forward="false" selection-start-line="58" selection-start-column="117" selection-end-line="58" selection-end-column="117" />
               <folding />
             </state>
           </provider>
@@ -73,11 +73,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="docker.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="docker.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/_site/blog/docker.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="193">
+            <state relative-caret-position="733">
               <caret line="75" column="117" lean-forward="false" selection-start-line="75" selection-start-column="117" selection-end-line="75" selection-end-column="117" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/_site/contributors/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-558">
+              <caret line="176" column="0" lean-forward="true" selection-start-line="176" selection-start-column="0" selection-end-line="176" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -88,16 +98,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="about.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/about.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" column="33" lean-forward="false" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -122,6 +122,8 @@
       <find>MozillaTN ClubName is club under MozillaTN community actively contributing to various contribution of mozilla.</find>
       <find>MozillaTN community</find>
       <find>background-image:url(../assets/mozilla-tn-bannerc.png);</find>
+      <find>background-image:url(../a</find>
+      <find>http://pcosdiva.com/wp-content/uploads/2016/04/sparkle-logo.png</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -138,9 +140,9 @@
         <option value="$PROJECT_DIR$/docs/about.md" />
         <option value="$PROJECT_DIR$/docs/contributors.md" />
         <option value="$PROJECT_DIR$/docs/_data/present_contributors.yml" />
-        <option value="$PROJECT_DIR$/docs/_site/index.html" />
         <option value="$PROJECT_DIR$/docs/_site/blog/index.html" />
         <option value="$PROJECT_DIR$/docs/_site/blog/docker.html" />
+        <option value="$PROJECT_DIR$/docs/_site/index.html" />
       </list>
     </option>
   </component>
@@ -190,6 +192,13 @@
               <item name="docs" type="462c0819:PsiDirectoryNode" />
               <item name="_site" type="462c0819:PsiDirectoryNode" />
               <item name="blog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="brainiacs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="brainiacs" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+              <item name="_site" type="462c0819:PsiDirectoryNode" />
+              <item name="contributors" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -369,14 +378,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/_site/contributors/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/docs/blog.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
@@ -446,14 +447,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/_site/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="141" column="4" lean-forward="true" selection-start-line="141" selection-start-column="4" selection-end-line="141" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/docs/_site/blog/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="203">
@@ -464,8 +457,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/_site/blog/docker.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
+        <state relative-caret-position="733">
           <caret line="75" column="117" lean-forward="false" selection-start-line="75" selection-start-column="117" selection-end-line="75" selection-end-column="117" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/_site/contributors/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-558">
+          <caret line="176" column="0" lean-forward="true" selection-start-line="176" selection-start-column="0" selection-end-line="176" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/_site/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="58" column="117" lean-forward="false" selection-start-line="58" selection-start-column="117" selection-end-line="58" selection-end-column="117" />
           <folding />
         </state>
       </provider>
