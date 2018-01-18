@@ -2,9 +2,9 @@
 layout: post
 
 #event information
-title:  "Why Firefox is better than other browser??"
-cover: "https://www.mozilla.org/media/img/firefox/firefox-256.e2c1fc556816.jpg"
-date:   2017-09-11
+title:  "What went wrong?"
+cover: "http://i0.wp.com/galaxyeppm.com/wp-content/uploads/2017/07/WWW.png?resize=375%2C210"
+date:   2018-01-19
 
 #event organiser details
 organiser: "Bhuvaneswaran"
@@ -15,20 +15,20 @@ categories: "blog"
 
 
 
-1.Customizable
-	Feeling your browser looks freaky, FireFox let's you to tweak your browser in the way which you want to see your browser. 
+1.Theoritical Planning fails
+	Planning alone is waste and implementation speaks alot.
 
-2.Add-ons
-	FireFox is known for its bunch of add-ons. Though some other morden browsers have extensible extensions support Firefox knocks them out in the race of end user usage. 
+2.Team member strength analysis
+	Team member strength have to be analysed before a event.
 
-3.Privacy 
-	Firefox protects user data from sold for money. Most of the morden browser sells the user informations, preferences and search histories too. As Firefox is from a Non-Profitable team, it makes the user to feel protected with it.
+3.No under estimation
+	None of the team member should be underestimated.
 
-4.Security
-	In Security point of view Firefox is far better than other browsers. Adblock, ghostery, No script are few famous security add-ons.
+4.Proper communication
+    Need to express what we feel and nothing violates others opportunity.
 
-5.Accessability
-	Compared to other browser firefox navigation is easy to use. It is intutive enough for newbie to use it to great extent. All features can be easily viewable with fewer actions.
+5.Listening
+	Extreme Listing is important in order to make a team success.
    	
 
 
