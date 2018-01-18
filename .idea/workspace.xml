@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84724b0a-a3b0-4dfb-8ca0-69b09623ebb4" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/_site/index.html" afterPath="$PROJECT_DIR$/docs/_site/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/_layouts/default.html" afterPath="$PROJECT_DIR$/docs/_layouts/default.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/_site/Events/index.html" afterPath="$PROJECT_DIR$/docs/_site/Events/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/_site/about/index.html" afterPath="$PROJECT_DIR$/docs/_site/about/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/_site/blog/index.html" afterPath="$PROJECT_DIR$/docs/_site/blog/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/_site/contributors/index.html" afterPath="$PROJECT_DIR$/docs/_site/contributors/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -53,12 +57,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/_site/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="58" column="117" lean-forward="false" selection-start-line="58" selection-start-column="117" selection-end-line="58" selection-end-column="117" />
-              <folding />
+            <state relative-caret-position="180">
+              <caret line="58" column="24" lean-forward="false" selection-start-line="58" selection-start-column="14" selection-end-line="58" selection-end-column="24" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -73,11 +79,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="docker.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="docker.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/docs/_site/blog/docker.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="733">
-              <caret line="75" column="117" lean-forward="false" selection-start-line="75" selection-start-column="117" selection-end-line="75" selection-end-column="117" />
+            <state relative-caret-position="193">
+              <caret line="75" column="117" lean-forward="true" selection-start-line="75" selection-start-column="54" selection-end-line="75" selection-end-column="117" />
               <folding />
             </state>
           </provider>
@@ -124,6 +130,7 @@
       <find>background-image:url(../assets/mozilla-tn-bannerc.png);</find>
       <find>background-image:url(../a</find>
       <find>http://pcosdiva.com/wp-content/uploads/2016/04/sparkle-logo.png</find>
+      <find>blog-cover</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -242,7 +249,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24980783" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -455,14 +461,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/_site/blog/docker.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="733">
-          <caret line="75" column="117" lean-forward="false" selection-start-line="75" selection-start-column="117" selection-end-line="75" selection-end-column="117" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/docs/_site/contributors/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-558">
@@ -473,8 +471,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/_site/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="58" column="117" lean-forward="false" selection-start-line="58" selection-start-column="117" selection-end-line="58" selection-end-column="117" />
+        <state relative-caret-position="180">
+          <caret line="58" column="24" lean-forward="false" selection-start-line="58" selection-start-column="14" selection-end-line="58" selection-end-column="24" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/_site/blog/docker.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="75" column="117" lean-forward="true" selection-start-line="75" selection-start-column="54" selection-end-line="75" selection-end-column="117" />
           <folding />
         </state>
       </provider>
