@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Mkcezilla blog
-navigation_title: Blog
+title: Brainiacs blog
+navigation_title: Brainiacs Blog
 permalink: /blog/
-cover: 'http://www.mkce.ac.in/wp-content/uploads/2016/01/banner1-2.jpg'
+button: true
+cover: 'https://theamazingworldofpsychiatry.files.wordpress.com/2011/09/istock_000015991944medium.jpg'
 ---
 
 

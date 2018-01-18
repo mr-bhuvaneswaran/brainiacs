@@ -1,27 +1,28 @@
 ---
 layout: page
-navigation_title: About
-title: About MKCEZILLA
+navigation_title: About Brainiacs
+title: About Brainiacs
 permalink: /about/
-cover: 'http://www.mkce.ac.in/wp-content/uploads/2016/01/banner1-2.jpg'
+button: true
+cover: 'http://chipua.co.tz/wp-content/uploads/2011/08/who_are_we.png'
 ---
 
-MKCEZILLA of Mozilla Tamilnadu is a volunteer community functioning under Mozilla India.
 
-We believe in keeping the power of web in people’s hands. We envision a world where web is **free and fair**.
+Sparkle Team Members
 
-We believe the amplification of community voices and building relationships can lead to that impact of spreading ideas beyond just one community, to greater sets of audience.
 
-Legend has it that folks here bleed code and pixels. (you can’t blame us if you encounter ambidextrous and sapiosexual people)
+BRAINIACS
+(Do or Try)
 
-We are a bunch of high spirited folks. We are a team.
+We are 9 members team with versatile talents.
 
-You and me. We and us.
+It is a great pleasure to be united for such a encouraging  workshop.
 
-We are new, bountiful and infinite. We are a fresh generation of thinkers, movers and shakers. And we hope to succeed in our first attempt.
+Now, we are united and we are planning to win the event.
 
-Bleed. Flow. And remember to code.
+No ego , No jealous a pure sportive attitude mindset team we have developed.
 
-*Let’s get rid of the asterixes.*
+More than all we are glad to perform any activities allocated to us.
 
-Buckle up for your journey into the world of open source.
+Fun factors are more we learned to help others.
+

@@ -1,13 +1,13 @@
 ---
 layout: page
-navigation_title: Contributors
-title: Contributors
+navigation_title: Members
+title: Members
 permalink: /contributors/
 button: true
-cover: 'https://mozillatn.github.io/clubs/assets/mozilla-tn-bannerc.png'
+cover: 'http://www.albionnewsonline.com/wp-content/uploads/2016/04/web-4-6-Teammates-logo.jpg'
 ---
 
-Here are the list of amazing Mozilla contributors from our club.
+Here is our Brainiacs.
 
 <h3>Present Contributors</h3>
 <div class="contributors_wrapper">
@@ -24,7 +24,6 @@ Here are the list of amazing Mozilla contributors from our club.
 
 {% endfor %}
 </div>
-<h3>Past Contributors</h3>
 <div class="contributors_wrapper">
 {% for contributor in site.data.past_contributors %}
 <div class="contributors">
@@ -34,8 +33,8 @@ Here are the list of amazing Mozilla contributors from our club.
 <img src="{{ contributor.photo }}"></div><br>
 
 <p class="name">Name: {{ contributor.name }}</p>
-<p class="contribution">Contribution Area:{{ contributor.contribution }}</p>
-
+<p class="contribution">Position: {{ contributor.contribution }}</p>
+<a href="http://www.google.com/" target="_blank">
 </div>
 {% endfor %}
 </div>

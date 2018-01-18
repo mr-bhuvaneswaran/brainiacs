@@ -1,29 +1,59 @@
 
 -   name: Bhuvaneswaran
     twitter: Mr.Bhuvaneswaran
-    description : Club Lead
+    description :Lead
     photo: "https://www.gravatar.com/avatar/aeefc5ed3469c5b01ceaaae04bb286b5"
-    contribution: QA
+    contribution: Captain
 
 
--   name: Bavithran
+-   name: Krishnaveni
     twitter: Durai-Bavithran
     description : Club Co-ordinator
-    photo: "https://www.gravatar.com/avatar/4f37dbee40e94c08314587db726e8dc4"
-    contribution: Developer
+    photo: ""
+    contribution: Vice Captain
 
 
--   name: Abinaya
+-   name: Rasika
     twitter: abinayamuthukrishnan
     description : Club Co-ordinator
-    photo: "https://www.gravatar.com/avatar/9d5376778a2c3e0f6ed7e42f1cfde8ad"
-    contribution: Developer
+    photo: "../assets/rasika.jpg"
+    contribution: Scorer
 
 
--   name: Logeshwaran
+-   name: Srivarshini
     twitter: Logeshwaran
     description :  Co-ordinator
-    photo: "https://www.gravatar.com/avatar/290f1ed3d473d7add9d4329eaaacc69f"
-    contribution: Developer
+    photo: "../assets/varshini.jpg"
+    contribution: Design Maker
+
+    name: Balaji
+    twitter: Logeshwaran
+    description :  Co-ordinator
+    photo: "../assets/balaji.jpg"
+    contribution: Entertainer
 
 
+    name: Shanmuga Priya
+    twitter: Logeshwaran
+    description :  Co-ordinator
+    photo: "../assets/shanmu.jpg"
+    contribution: Ideaprener
+
+
+    name: Kannan
+    twitter: Logeshwaran
+    description :  Co-ordinator
+    photo: "../assets/kannan.jpg"
+    contribution: Video Maker
+
+    name: Sheik
+    twitter: Logeshwaran
+    description :  Co-ordinator
+    photo: "../assets/sheik.JPG"
+    contribution: Problem solver
+
+    name: Dhivya
+    twitter: Logeshwaran
+    description :  Co-ordinator
+    photo: "../assets/divya.jpg"
+    contribution: Silent Achiever

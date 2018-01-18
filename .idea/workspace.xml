@@ -2,15 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84724b0a-a3b0-4dfb-8ca0-69b09623ebb4" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/.2016-01-05-aws.md.swp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2016-01-05-aws.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2016-03-10-angular-2.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2016-03-28-intro-to-react.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2016-04-28-web-security.md" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/assets/mozilla-tn-bannerc.png" afterPath="$PROJECT_DIR$/docs/assets/mozilla-tn-bannerc.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/_posts/2016-05-28-docker.md" afterPath="$PROJECT_DIR$/docs/_posts/2016-05-28-docker.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/_posts/2017-09-11-why-mozilla.md" afterPath="$PROJECT_DIR$/docs/_posts/2017-09-11-why-mozilla.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/assets/balaji.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/assets/divya.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/assets/kannan.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/assets/rasika.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/assets/shanmu.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/assets/shiek.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/assets/varshini.jpg" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/2017/angular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/2017/aws.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/2017/web-secuirty.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/events.md" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/assets/mozilla-logo.jpg" afterPath="$PROJECT_DIR$/docs/assets/mozilla-logo.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/_data/present_contributors.yml" afterPath="$PROJECT_DIR$/docs/_data/present_contributors.yml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/_site/index.html" afterPath="$PROJECT_DIR$/docs/_site/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/about.md" afterPath="$PROJECT_DIR$/docs/about.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/blog.md" afterPath="$PROJECT_DIR$/docs/blog.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/contributors.md" afterPath="$PROJECT_DIR$/docs/contributors.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/index.html" afterPath="$PROJECT_DIR$/docs/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,8 +31,8 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="facebook.svg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/_includes/facebook.svg">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/_site/contributors/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -31,40 +41,61 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mozilla-logo.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/assets/mozilla-logo.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2016-05-28-docker.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/docs/_posts/2016-05-28-docker.md">
+      <file leaf-file-name="present_contributors.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/docs/_data/present_contributors.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="25" column="57" lean-forward="false" selection-start-line="25" selection-start-column="57" selection-end-line="25" selection-end-column="57" />
+            <state relative-caret-position="1026">
+              <caret line="57" column="31" lean-forward="false" selection-start-line="57" selection-start-column="31" selection-end-line="57" selection-end-column="31" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/_site/index.html">
+      <file leaf-file-name="contributors.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/contributors.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1854">
-              <caret line="103" column="42" lean-forward="false" selection-start-line="103" selection-start-column="42" selection-end-line="103" selection-end-column="42" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="438">
+              <caret line="35" column="34" lean-forward="false" selection-start-line="35" selection-start-column="34" selection-end-line="35" selection-end-column="34" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2017-09-11-why-mozilla.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/_posts/2017-09-11-why-mozilla.md">
+      <file leaf-file-name="past_contributors.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/_data/past_contributors.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="30" column="64" lean-forward="false" selection-start-line="30" selection-start-column="64" selection-end-line="30" selection-end-column="64" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="blog.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/blog.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="3" column="28" lean-forward="false" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/about.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" column="33" lean-forward="false" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="organisers.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/_data/organisers.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -75,6 +106,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>why`</find>
+      <find>Bhuva</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -83,9 +115,15 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/docs/_site/index.html" />
         <option value="$PROJECT_DIR$/docs/_posts/2017-09-11-why-mozilla.md" />
         <option value="$PROJECT_DIR$/docs/_posts/2016-05-28-docker.md" />
+        <option value="$PROJECT_DIR$/docs/_site/index.html" />
+        <option value="$PROJECT_DIR$/docs/index.html" />
+        <option value="$PROJECT_DIR$/docs/_site/contributors/index.html" />
+        <option value="$PROJECT_DIR$/docs/blog.md" />
+        <option value="$PROJECT_DIR$/docs/about.md" />
+        <option value="$PROJECT_DIR$/docs/contributors.md" />
+        <option value="$PROJECT_DIR$/docs/_data/present_contributors.yml" />
       </list>
     </option>
   </component>
@@ -127,26 +165,7 @@
               <item name="brainiacs" type="b2602c69:ProjectViewProjectNode" />
               <item name="brainiacs" type="462c0819:PsiDirectoryNode" />
               <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name="_includes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="brainiacs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="brainiacs" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="brainiacs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="brainiacs" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name="_site" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="brainiacs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="brainiacs" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name="_site" type="462c0819:PsiDirectoryNode" />
-              <item name="about" type="462c0819:PsiDirectoryNode" />
+              <item name="_data" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="brainiacs" type="b2602c69:ProjectViewProjectNode" />
@@ -196,8 +215,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24980783" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24980783" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -233,21 +253,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/assets/mozilla-tn-bannerc.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/_site/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1854">
-          <caret line="103" column="42" lean-forward="false" selection-start-line="103" selection-start-column="42" selection-end-line="103" selection-end-column="42" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/docs/_includes/footer.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
@@ -264,11 +269,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/assets/mozilla-logo.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/docs/_posts/2017-09-11-why-mozilla.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
@@ -277,10 +277,161 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/docs/_includes/past-event-list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/_layouts/default.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/_includes/blog-post-list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/assets/mozilla-tn-bannerc.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/docs/_posts/2016-05-28-docker.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="25" column="57" lean-forward="false" selection-start-line="25" selection-start-column="57" selection-end-line="25" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/_site/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2521">
+          <caret line="71" column="0" lean-forward="false" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/_site/about/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3453">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/_site/blog/docker.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4533">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/_layouts/page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/assets/mozilla-logo.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/assets/mkce.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/events.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1329">
+          <caret line="2" column="41" lean-forward="false" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/feed.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/_site/contributors/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/blog.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="28" lean-forward="false" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/about.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="33" lean-forward="false" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/_data/organisers.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/_data/past_contributors.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/contributors.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="438">
+          <caret line="35" column="34" lean-forward="false" selection-start-line="35" selection-start-column="34" selection-end-line="35" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/_data/present_contributors.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1026">
+          <caret line="57" column="31" lean-forward="false" selection-start-line="57" selection-start-column="31" selection-end-line="57" selection-end-column="31" />
           <folding />
         </state>
       </provider>
