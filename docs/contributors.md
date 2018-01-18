@@ -16,9 +16,9 @@ Here is our Brainiacs.
 
 <div class="pic" style="height: 130px; width: 130px">
 <img src="{{ contributor.photo }}"></div><br>
-
+<p class="name">Name: {{ contributor.name }}</p>
 <p class="contribution">Position: {{ contributor.contribution }}</p>
-<a href="http://www.google.com/" target="_blank">GOOGLE</a>
+<p class="name"><a href="{{ contributor.resume }}" target="_blank">RESUME</a></p>
 
 </div>
 

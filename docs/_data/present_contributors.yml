@@ -4,56 +4,62 @@
     description: Lead
     photo: "https://www.gravatar.com/avatar/aeefc5ed3469c5b01ceaaae04bb286b5"
     contribution: Captain
+    resume: "../assets/bhpdf.pdf"
 
 
 -   name: Krishnaveni
     twitter: kkkkkkkkkkk
     description : Club Co-ordinator
-    photo: "../assets/krishna.jpg"
+    photo: "../assets/krish.jpg"
     contribution: Vice Captain
-
+    resume: "../assets/krpdf.pdf"
 
 -   name: Rasika
     twitter: aaaaaaaaaaaaaa
     description : Club Co-ordinator
     photo: "../assets/rasika.jpg"
     contribution: Scorer
-
+    resume: "../assets/rspdf.pdf"
 
 -   name: Srivarshini
     twitter: qwer
     description :  Co-ordinator
     photo: "../assets/varshini.jpg"
     contribution: Design Maker
+    resume: "../assets/vrpdf.pdf"
 
 -   name: Balaji
     twitter: rrrrr
     description :  Co-ordinator
     photo: "../assets/balaji.jpg"
     contribution: Entertainer
-
+    resume: "../assets/bjpdf.pdf"
 
 -   name: Shanmuga Priya
     twitter: sssssssssssssssss
     description :  Co-ordinator
     photo: "../assets/shanmu.jpg"
     contribution: Ideaprener
-
+    resume: "../assets/snpdf.pdf"
 
 -   name: Kannan
     twitter: lllllllllllll
     description :  Co-ordinator
     photo: "../assets/kannan.jpg"
     contribution: Video Maker
+    resume: "../assets/knpdf.pdf"
+
 
 -   name: Sheik
     twitter: iiiiiiiiiiiiiiiiii
     description :  Co-ordinator
-    photo: "../assets/sheik.JPG"
+    photo: "../assets/shiek.JPG"
     contribution: Problem solver
+    resume: "../assets/shpdf.pdf"
 
 -   name: Dhivya
     twitter: ddddddddd
     description :  Co-ordinator
     photo: "../assets/divya.jpg"
     contribution: Silent Achiever
+    resume: "../assets/dvpdf.pdf"
