@@ -34,7 +34,7 @@ Here is our Brainiacs.
 
 <p class="name">Name: {{ contributor.name }}</p>
 <p class="contribution">Position: {{ contributor.contribution }}</p>
-<a href="http://www.google.com/" target="_blank">
+<a href="http://www.google.com/" target="_blank">GOOGLE</a>
 </div>
 {% endfor %}
 </div>
