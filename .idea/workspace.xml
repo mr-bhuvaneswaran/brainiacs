@@ -2,25 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84724b0a-a3b0-4dfb-8ca0-69b09623ebb4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/assets/balaji.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/assets/divya.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/assets/kannan.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/assets/rasika.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/assets/shanmu.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/assets/shiek.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/assets/varshini.jpg" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/2017/angular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/2017/aws.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/2017/web-secuirty.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/events.md" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/assets/mozilla-logo.jpg" afterPath="$PROJECT_DIR$/docs/assets/mozilla-logo.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/_data/present_contributors.yml" afterPath="$PROJECT_DIR$/docs/_data/present_contributors.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/_site/index.html" afterPath="$PROJECT_DIR$/docs/_site/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/about.md" afterPath="$PROJECT_DIR$/docs/about.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/blog.md" afterPath="$PROJECT_DIR$/docs/blog.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/contributors.md" afterPath="$PROJECT_DIR$/docs/contributors.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/index.html" afterPath="$PROJECT_DIR$/docs/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -44,8 +26,8 @@
       <file leaf-file-name="present_contributors.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/docs/_data/present_contributors.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1026">
-              <caret line="57" column="31" lean-forward="false" selection-start-line="57" selection-start-column="31" selection-end-line="57" selection-end-column="31" />
+            <state relative-caret-position="54">
+              <caret line="3" column="17" lean-forward="false" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -430,8 +412,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/_data/present_contributors.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1026">
-          <caret line="57" column="31" lean-forward="false" selection-start-line="57" selection-start-column="31" selection-end-line="57" selection-end-column="31" />
+        <state relative-caret-position="54">
+          <caret line="3" column="17" lean-forward="false" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
           <folding />
         </state>
       </provider>
