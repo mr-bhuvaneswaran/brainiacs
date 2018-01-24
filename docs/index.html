@@ -1,103 +1,44 @@
----
-layout: default
-cover: '../assets/mozilla-tn-bannerc.png'
----
+<html>
+<head>
+	<title>
+	First
+	</title>
+	<style type="text/css">
+	table,td{
+		border : solid 1px black;
+		border-collapse : collapse;
+	} 
+	</style>
+ 
+</head>
+<body>
+<h1>My First page</h1>
+<br>
+<p><strong>Machine</strong> <em>learning</em> is a treanding domain in mordern days. It gives <ins>oppourtunies</ins> for business analyst to use their data more efficiently to make decision over it.</p>
+<div>Resources </div>
+<ul>
+	<li>Books</li>
+	<li>Online</li>
 
-
-
-<div class="home">
-    
-    {% capture currentDate %}{{'now' | date: '%s' }}{% endcapture %}
-
-
-	{% assign publishedEvent = site.posts | where: 'categories', 'event' %}
-	{% assign publishedBlog = site.posts | where: 'categories', 'blog' %}
-
-
-<div class="clearfix">
-
-      <h1 class="event-time-heading fix-top">Recent Post</h1>
-
-      {% for post in publishedBlog reversed limit:3 %}
-
-        {% capture blogDate %}{{post.date | date: '%s' }}{% endcapture %}
-
-
-          <a href="{{ post.url | prepend: site.baseurl }}">
-            {% if post.cover %}
-            <div class="event-sqaure" style="background-image:url({{post.cover | replace_first: '../', '' }});">
-            {% endif %}
-              <h2>{{ post.title }} <span>{{ post.date | date: "%b %-d, %Y" }}</span></h2>
-               <div class='event-square-overlay'></div>
-            </div>
-
-          </a>
-
-      {% endfor %}
-    </div>
-
-
-
-    <div class="clearfix">
-
-      <h1 class="event-time-heading fix-top">Future {% if site.event_label %} {{site.event_label}} {% else %} Events {% endif %} </h1>
-
-	{% assign futureEvent = 0 %}
-
-      {% for post in publishedEvent reversed limit:3 %}
-
-        {% capture blogDate %}{{post.date | date: '%s' }}{% endcapture %}
-
-        {% if blogDate >= currentDate  %}
-
-	      {% assign futureEvent = 0 | plus: 1 %}
-          <a href="{{ post.url | prepend: site.baseurl }}">
-            {% if post.cover %}
-            <div class="event-sqaure" style="background-image:url({{post.cover | replace_first: '../', '' }});">
-            {% endif %}
-              <h2>{{ post.title }} <span>{{ post.date | date: "%b %-d, %Y" }}</span></h2>
-               <div class='event-square-overlay'></div>
-            </div>
-           
-          </a>
-
-        {% endif %}
-
-      {% endfor %}
-
-	{% if futureEvent == 0   %}
-		<h2> Stay tuned for More events</h2>
-	{% endif %}
-    </div>
-    <div class="clearfix">
-
-      <h1 class="event-time-heading">Past {% if site.event_label %} {{site.event_label}} {% else %} Events {% endif %} </h1>
-    
-
-  {% for post in publishedEvent limit:3%}
-
-        {% capture blogDate %}{{post.date | date: '%s' }}{% endcapture %}
-
-
-	
-
-        {% if blogDate < currentDate %}
-
-
-  <a href="{{ post.url | prepend: site.baseurl }}">
-            {% if post.cover %}
-            <div class="event-sqaure" style="background-image:url({{post.cover | replace_first: '../', '' }});">
-            {% endif %}
-              <h2>{{ post.title }} <span>{{ post.date | date: "%b %-d, %Y" }}</span></h2>
-              <div class='event-square-overlay'></div>
-            </div>
-            
-          </a>
-
-	
-	{% endif %}
-
-      {% endfor %}
-    </div>
-
-</div>
+</ul>
+<div>Uses</div>
+<ol>
+	<li>Job</li>
+	<li>Studies</li>
+</ol>
+<canvas id="myCanvas" width="200" height="100" style="border:1px solid #000000;">
+Your browser does not support the HTML5 canvas tag.
+</canvas>
+<table>
+<tr>
+	<td>1.</td>
+	<td>Nivas</td>	
+</tr>
+<tr>
+	<td>2.</td>
+	<td>Manoj</td>	
+</tr>
+</table>
+<a href="https://www.google.com/"><img src="https://www.google.co.in/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png" height="400" width="400"></a>
+</body>
+</html>
